@@ -6,7 +6,7 @@
   
 </div>
 
-Desarrollador Full Stack apasionado por crear soluciones innovadoras y eficientes. Me especializo en desarrollo web moderno y aplicaciones móviles.
+estudiante de la carrera de Ingeniería Civil Informática y apasionado del desarrollo de software Full Stack. Me apasiona conocer nuevas tecnologías para seguir aprendiendo.
 
 ---
 
