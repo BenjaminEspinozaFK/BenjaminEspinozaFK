@@ -1,4 +1,13 @@
-
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/BenjaminEspinozaFK/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=BenjaminEspinozaFK&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminEspinozaFK&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenjaminEspinozaFK&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benjita_lou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benjamin-espinoza-52b3a6375/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benjamintwo2002@gmail.com) 
 
