@@ -6,8 +6,7 @@
   
 </div>
 
-estudiante de la carrera de Ingeniería Civil Informática y apasionado del desarrollo de software Full Stack. Me apasiona conocer nuevas tecnologías para seguir aprendiendo.
-
+Estudiante de Ingeniería Civil Informática en la UCT y apasionado por el desarrollo de software Full Stack. Disfruto conociendo nuevas tecnologías para continuar aprendiendo y aplicar ese conocimiento. Mi objetivo es contribuir a proyectos que resuelvan problemas reales mediante el desarrollo web, adaptándome a los distintos requisitos y restricciones que se presenten durante el proceso.
 ---
 
 ## 📈 Actividad en GitHub
