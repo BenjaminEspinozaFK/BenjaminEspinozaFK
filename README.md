@@ -1,5 +1,6 @@
 # ¡Hola! Soy Benjamín Espinoza 👋
-
+<div align="center">
+</div>
 Estudiante de Ingeniería Civil Informática en la UCT y apasionado por el desarrollo de software Full Stack. Disfruto conociendo nuevas tecnologías para continuar aprendiendo y aplicar ese conocimiento. Mi objetivo es contribuir a proyectos que resuelvan problemas reales mediante el desarrollo web, adaptándome a los distintos requisitos y restricciones que se presenten durante el proceso.
 ---
 
@@ -114,7 +115,11 @@ Estudiante de Ingeniería Civil Informática en la UCT y apasionado por el desar
 ---
 
 <div align="center">
+  <div align="center">
   
+  ![Visitor Count](https://komarev.com/ghpvc/?username=BenjaminEspinozaFK&style=flat-square&color=blue)
+  
+</div>
   **¡Gracias por visitar mi perfil!** 🚀
   
   [![Profile Views](https://visitcount.itsvg.in/api?id=BenjaminEspinozaFK&icon=0&color=0)](https://visitcount.itsvg.in)
