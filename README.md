@@ -122,6 +122,5 @@ Estudiante de Ingeniería Civil Informática en la UCT y apasionado por el desar
 </div>
   **¡Gracias por visitar mi perfil!** 🚀
   
-  [![Profile Views](https://visitcount.itsvg.in/api?id=BenjaminEspinozaFK&icon=0&color=0)](https://visitcount.itsvg.in)
   
 </div>
